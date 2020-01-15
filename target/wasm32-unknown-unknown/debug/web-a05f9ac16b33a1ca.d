@@ -1,0 +1,1 @@
+/home/joseph/Desktop/wasm-game-of-life/target/wasm32-unknown-unknown/debug/web-a05f9ac16b33a1ca.wasm: /home/joseph/Desktop/wasm-game-of-life/src/lib.rs /home/joseph/Desktop/wasm-game-of-life/src/utils.rs /home/joseph/Desktop/wasm-game-of-life/tests/web.rs
